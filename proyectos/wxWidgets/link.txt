@@ -1,1 +1,5 @@
 https://gist.github.com/vadz/6377493
+
+Terminal de windows que soporta conexión con xserver
+----------------------------------------------------
+https://mobaxterm.mobatek.net/download-home-edition.html
